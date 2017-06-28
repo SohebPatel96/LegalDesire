@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/search_lawyer"
+            android:title="Search Lawyer" />
+
+        <item
+            android:id="@+id/chat_module"
+            android:title="My Chats" />
+        <item
+            android:id="@+id/my_appointments"
+            android:title="My Appointments" />
+
+        <item
+            android:id="@+id/online_lib"
+            android:title="Online Library" />
+        <item
+            android:id="@+id/complaint"
+            android:title="Complaint Center" />
+        <item
+            android:id="@+id/video_center"
+            android:title="Video Center" />
+        <item
+            android:id="@+id/panic_center"
+            android:title="Panic Center" />
+        <item
+            android:id="@+id/logout"
+            android:title="Logout" />
+
+    </group>
+</menu>

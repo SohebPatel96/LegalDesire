@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\citi_launcher.png",
+        "source": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\sdkui\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\citi_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\card_icon.png",
+        "source": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\sdkui\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\card_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\visa.png",
+        "source": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\sdkui\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\visa.png"
+    },
+    {
+        "merged": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\image_cvv.png",
+        "source": "C:\\Users\\MSP\\Desktop\\LD final\\Merge-Prem and Soheb\\sdkui\\build\\intermediates\\bundles\\default\\res\\mipmap-xxxhdpi-v4\\image_cvv.png"
+    }
+]

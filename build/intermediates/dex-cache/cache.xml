@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSP\Desktop\LD final\Merge-Prem and Soheb\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\MSP\Desktop\LD final\Merge-Prem and Soheb\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_a6cfec8e55a14033dc7a5b5e7f2e956c68f33c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MSP\Desktop\LD final\Merge-Prem and Soheb\sdkui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25e6e52a5d32ce80e0925128199d87bb96bd4045">
+        <dex dex="C:\Users\MSP\Desktop\LD final\Merge-Prem and Soheb\app\build\intermediates\pre-dexed\debug\classes_40fac0cffa835c3ffb77128bd72afb5a955f46d4.jar" />
+    </item>
+
+</items>
